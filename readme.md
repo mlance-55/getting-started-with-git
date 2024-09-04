@@ -1,4 +1,4 @@
-This activity is for practicing the connection between my local repository and a remote repository
+This activity is for practicing the connection between my local repository and a remote repository.
 Actions include: 
 * initializing conection between local and remote repositories
 * pushing commits from my local repository to GitHub
